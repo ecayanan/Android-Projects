@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BartFare</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="origin_text">Origin</string>
+    <string name="destination_text">Destination</string>
+    <string name="connection_error">Unable To Connect</string>
+    <string name="xml_error">Unable To Read XML</string>
+    <string name="choose_text">Choose Origin and Destination</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string-array name="stations_array">
+        <item>12th St. Oakland City Center</item>
+        <item>16th St. Mission</item>
+        <item>19th St. Oakland</item>
+        <item>24th St. Mission</item>
+        <item>Ashby</item>
+        <item>Balboa Park</item>
+        <item>Bay Fair</item>
+        <item>Castro Valley</item>
+        <item>Civic Center/UN Plaza</item>
+        <item>Coliseum/Oakland Airport</item>
+        <item>Colma</item>
+        <item>Concord</item>
+        <item>Daly City</item>
+        <item>Downtown Berkeley</item>
+        <item>Dublin/Pleasanton</item>
+        <item>El Cerrito del Norte</item>
+        <item>El Cerrito Plaza</item>
+        <item>Embarcadero</item>
+        <item>Fremont</item>
+        <item>Fruitvale</item>
+        <item>Glen Park</item>
+        <item>Hayward</item>
+        <item>Lafayette</item>
+        <item>Lake Merritt</item>
+        <item>MacArthur</item>
+        <item>Millbrae</item>
+        <item>Montgomery St.</item>
+        <item>North Berkeley</item>
+        <item>North Concord/Martinez</item>
+        <item>Oakland Int\'l Airport</item>
+        <item>Orinda</item>
+        <item>Pittsbburg/Bay Point</item>
+        <item>Pleasant Hill/Contra Costa Centre</item>
+        <item>Powell St.</item>
+        <item>Richmond</item>
+        <item>Rockridge</item>
+        <item>San Bruno</item>
+        <item>San Francisco Int\'l Airport</item>
+        <item>San Leandro</item>
+        <item>South Hayward</item>
+        <item>South San Francisco</item>
+        <item>Union City</item>
+        <item>Walnut Creek</item>
+        <item>West Dublin/Pleasanton</item>
+        <item>West Oakland</item>
+
+    </string-array>
+</resources>
